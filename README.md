@@ -1,3 +1,9 @@
+# Deprecation Notice
+
+This fork was originally created to support Swift Package Manager. Rather than update to include privacy manifest support as part of mParticle's [8.5.0 release](https://github.com/mparticle-integrations/mparticle-apple-integration-iterable/releases/tag/v8.5.0), the fork has been retired as that release supports SPM directly.
+
+---
+
 ## Iterable Kit Integration
 
 This repository contains the [Iterable](https://iterable.com) integration for the [mParticle Apple SDK](https://github.com/mParticle/mparticle-apple-sdk).
